@@ -4,7 +4,7 @@ A command-line tool to download .gitignore files from the github/gitignore repos
 
 ## Installation
 
-### Install from script
+### Install from script (Not working at the moment)
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/ruivalim/gitignore-cli/main/install.sh | bash
